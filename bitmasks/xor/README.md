@@ -23,16 +23,19 @@ If **n=7** and **x=6**, suitable segments are:
 For each test case, output one integer — the answer modulo 998244353.  
 
 ## Sample Input/Output
-```
+
 Input:
+```
 5
 5 5
 8 1
 15 8
 10 10
 5989566119 1996588700
+```
 
 Output:
+```
 1
 2
 10
